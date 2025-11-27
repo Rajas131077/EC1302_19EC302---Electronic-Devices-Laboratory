@@ -19,7 +19,7 @@ LT-Spice
 
 6.Right click on the voltage1 soruce and modify the values as SINE(0 10 50) and votage2 source modify the value as PULSE(0 5 3m 1n 1n 2m 20m).
 
-6.Save the file by giving file name.
+6.Save the file by giving file name
 
 7.Click on the run option --> click advanced open --> select TRAN analysis --> enter the  stop time value.
 

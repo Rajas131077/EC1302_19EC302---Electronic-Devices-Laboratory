@@ -29,7 +29,7 @@ LT-Spice
 
 11.Save the file with a suitable name.
 
-12.Click Run → Advanced→ Transient Analysis and set the stop time (e.g.,60 ms).
+12.Click Run → Advanced→ Transient Analysis and set the stop time (e.g,60 ms).
 
 13.Click Run, and place the probe at each stage to observe: Transformer output, Rectifier output, Filtered output, Regulated output, Load voltage.
 

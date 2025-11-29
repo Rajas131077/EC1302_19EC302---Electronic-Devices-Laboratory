@@ -29,7 +29,7 @@ LT-Spice
 
 11.Save the file with a suitable name.
 
-12.Click Run → Advanced→ Transient Analysis and set the stop time (e.g,60 ms).
+12.Click Run → Advanced→ Transient Analysis and set the stop time (e.g.,60 ms).
 
 13.Click Run, and place the probe at each stage to observe: Transformer output, Rectifier output, Filtered output, Regulated output, Load voltage.
 
@@ -37,16 +37,20 @@ LT-Spice
 
 ## CIRCUIT DIAGRAM:
 
+![WhatsApp Image 2025-11-28 at 16 59 23_6e546639](https://github.com/user-attachments/assets/9303f088-63a5-43a4-8916-3b6e9c9822df)
 
 ## AC INPUT WAVEFORM:
 
+![WhatsApp Image 2025-11-28 at 16 52 50_728e7b4e](https://github.com/user-attachments/assets/9feae15d-ce68-4896-9a01-05919e729988)
 
 ## OUTPUT GRAPH:
 ## SIGNAL OUTPUT(WITHOUT FILTER)
 
+![WhatsApp Image 2025-11-28 at 16 52 50_8b051b3a](https://github.com/user-attachments/assets/523e9e46-29f4-42af-92d7-55c9bc82ddbd)
+
 ## SIGNAL OUTPUT(WITH FILTER)
 
-
+![WhatsApp Image 2025-11-28 at 16 52 49_3a2e9ef0](https://github.com/user-attachments/assets/62c6dac1-a3e8-4776-97d8-53c47e55fbb7)
 
 ## RESULT:
 Thus the output waveform at each stage was observed and analyzed. A stable regulated DC output was obtained at the load of RPS using LT-spice is simulated and verified. 
